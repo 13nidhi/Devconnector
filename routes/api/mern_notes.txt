@@ -1,0 +1,27 @@
+start = npm run server
+Mongoose = sit on top of data base to interact with database, in mongodb
+        Mongoose is a JavaScript library that allows you to define schemas with strongly typed data.
+ Once a schema is defined, Mongoose lets you create a Model based on a specific schema. 
+ A Mongoose Model is then mapped to a MongoDB Document via the Model's schema definition.
+
+=> in order to interact with database we need to create a model for each of our resourses.
+
+=> whenever we make req. and we send data we get it with req.body.name(anything)
+
+=> we jus need to pass the user email in gravater it will send send us the link of gravatar
+it have 3 thing s: size , r= rating, d default
+
+=> anything that writen promise make sure u write await in front of that
+
+=> Bcrypt => https://medium.com/@manishsundriyal/a-quick-way-for-hashing-passwords-using-bcrypt-with-nodejs-8464f9785b67
+
+=> JWT => https://medium.com/@dleroari/learn-the-basics-of-json-web-tokens-jwt-and-how-it-works-in-practice-8b3b14cbe0f9
+ // Route folder
+ => here all of our routes will be there
+
+ => So B crypt has a method called compare which takes a plain text password an encrypted password and compares
+        them and tells you if it's a match or not.
+        
+=> The deleteMany() function is used to delete all of the documents that match conditions from the collection. 
+This function behaves like the remove() function 
+but it deletes all documents that match conditions regardless of the single option.

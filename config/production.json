@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://nidhi:nidhi@devconnector.ryflg.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken",
+    "githubClientId": "bfd06e7b0b5a124b98af",
+    "githubSecret": "4ea0f4c53cb043a56ecfcaf61684ed58209af830"
+}
